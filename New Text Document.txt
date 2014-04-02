@@ -1,0 +1,34 @@
+﻿Hộ khẩu kt3.
+Khi nào nộp hô sơ
+
+
+
+Buc tranh tu nuoc mat
+Bad day
+Thousand year
+That try
+When You Say Nothing At All
+Gap nhau lam chi
+Đánh mất
+Giấc mơ chỉ là giấc mơ
+Gia minh la nguoi la
+Giup anh tra loi nhung cau hoi
+Thien Ha Huu Tinh Nhan
+Nhung loi doi gian
+Tinh xua nghia cu
+
+Con Mua Thit Vien
+Monster University
+
+
+override : chinh sua phuong thuc khi ke thua
+overload : cho phep trung ten phuong thuc
+interface
+virtural 
+abstract
+
+Điềm: 0937470974
+Sinh: 0985327620
+Kì: 0936777267
+
+
